@@ -1,2 +1,6 @@
-# minimal_length_of_graph_traversal
-Given a network, equipped with a specific total and strict order, we get the minimal traversal length.
+# Introduction 
+This code is a solution to the 
+[*Spacepizza* problem](https://questionsacm.isograd.com/codecontest/pdf/spacepizza.pdf), 
+from the 
+[battledev](https://battledev.blogdumoderateur.com/)) 
+contest ((FR) 11/2017).             
